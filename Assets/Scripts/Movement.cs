@@ -11,7 +11,6 @@ public class Movement : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		moveSpeed = 10f;
 		rbody = GetComponent<Rigidbody> ();
 
 	}
