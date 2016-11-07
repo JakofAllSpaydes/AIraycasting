@@ -28,7 +28,7 @@ public class Mouse : MonoBehaviour {
 
 		}
 
-		if (Timer >= 2) {
+		if (Timer >= 1) {
 
 			soundPlayed = false;
 			Timer = 0;
